@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-for ALX shell project
+ALX project 0x02.
+Shell, I/O Reedirections and filters
